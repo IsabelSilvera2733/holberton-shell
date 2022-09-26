@@ -1,1 +1,1 @@
-# holberton-shell
+holberton-shell
